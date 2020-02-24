@@ -10,9 +10,9 @@ import { SVG, Container } from './styles';
 export default function Scene() {
   return (
     <Container>
-      <SVG width="1058" height="785" viewBox="0 0 1058 785" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <SVG viewBox="0 0 1058 785" fill="none" xmlns="http://www.w3.org/2000/svg">
         <g id="bike 1">
-          <g clip-path="url(#clip0)">
+          <g clipPath="url(#clip0)">
             <Background />
             <ManBike />
             <BackWheel />
