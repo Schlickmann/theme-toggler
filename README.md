@@ -6,8 +6,9 @@
   - [x] React Hooks;
 - [x] Styled Components;
 
-<p align="center">
+<figure>
   <img src="./themetoggler.gif" height="400" />
-</p>
+  <figcaption>Theme Toggler</figcaption>
+</figure>
 
 [Check it out](https://angry-hamilton-e66f2f.netlify.com/)
