@@ -11,4 +11,4 @@
   <figcaption>Theme Toggler</figcaption>
 </figure>
 
-[Check it out](https://angry-hamilton-e66f2f.netlify.com/)
+[Check it out](https://theme-toggler-schlickmann.netlify.com/)
